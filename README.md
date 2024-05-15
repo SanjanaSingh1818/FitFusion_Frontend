@@ -19,7 +19,7 @@ git clone <https://github.com/SanjanaSingh1818/FitFusion.git>
 
 2. Install dependencies using npm:
 
-npm install
+ npm install
 
 
 ## Usage
