@@ -1,4 +1,4 @@
-# Fitness Web App -FitFusion
+# Fitness Web App - FitFusion
 
 This is a fitness web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with Material-UI for styling.
 
